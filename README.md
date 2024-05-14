@@ -19,11 +19,14 @@ As I am currently a Senior, I have only *four* more classes to go before my grad
 
 -Software Engineering Requirements 1 [CS 4310] 
 
-    -Team Leader for CAPSTONE Project. [A]
+    Methodologies, approaches, and techniques associated with software requirements analysis and definition.
+    First semester of a two-semester CAPSTONE project in which students work with a customer to capture and specify requirements for a real-world application.
+    Role: Team Leader - [A].
     
 -Computer Networks [CS 4316]
 
-    -[TBD]
+    Itroduction to data communications; covers data transmission, link control, encoding, multiplexing, switching, network topologies, address resolution, protocol layering, routing methods, data security, & distributed systems.
+    [TBD].
     
 -Wireless Networks [CS 4318]
 
