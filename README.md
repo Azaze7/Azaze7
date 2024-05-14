@@ -22,8 +22,8 @@ As I am currently a Senior, I have only *four* more classes to go before my grad
     ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
     ~ First semester of a two-semester CAPSTONE project in which students worked with a customer.
     ~ Captured and specified requirements for a real-world application, to be coded in Fall 2024.
-    Role: Team Leader.
-    Grade: [B].
+    **Role: Team Leader.**
+    **Grade: [B].**
     
 -Computer Networks [CS 4316]
 
