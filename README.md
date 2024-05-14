@@ -19,21 +19,28 @@ As I am currently a Senior, I have only *four* more classes to go before my grad
 
 -Software Engineering Requirements 1 [CS 4310] 
 
-    Methodologies, approaches, and techniques associated with software requirements analysis and definition.
-    First semester of a two-semester CAPSTONE project in which students work with a customer to capture and specify requirements for a real-world application.
+    ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
+    ~ First semester of a two-semester CAPSTONE project in which students worked with a customer to capture and specify requirements for a real-world application.
     Role: Team Leader - [A].
     
 -Computer Networks [CS 4316]
 
-    Itroduction to data communications; covers data transmission, link control, encoding, multiplexing, switching, network topologies, address resolution, protocol layering, routing methods, data security, & distributed systems.
+    ~ Introduction to data communications; covered data transmission, link control, encoding, multiplexing, switching, network topologies, address resolution & protocol layering.
+    ~ Also covered routing methods, data security, & distributed systems.
     [TBD].
     
 -Wireless Networks [CS 4318]
-
-    -[TBD]
+    
+    ~ Mixture of theoretical, engineering, and practical topics in contemporary wireless systems for both mobile and home devices.
+    ~ Covered fundamental techniques in design and operation of the second, third, and fourth generations of wireless LANs. 
+    ~ Placed a significant emphasis on the design of security-related features within wireless networks.
+    [TBD].
     
 -Software Vulnerablities [CS 4177] 
 
+    ~ Hands-on workshop-style course that covered common software security vulnerabilities.
+    ~ Course consisted of 10 workshops, each covering a particular current software vulnerability.
+    ~ Learned WireShark, IDA, Powershell-Empire, & more.
     -[A]
     
 -Programming Language Concepts [CS 3360]
