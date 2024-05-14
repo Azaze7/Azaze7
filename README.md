@@ -53,15 +53,15 @@ As I am currently a Senior, I have only *four* more classes to go before my grad
     
 -Database Systems [CS 4342] 
 
-    ~ Introduction to database fundamentals (e.g., relational algebra) and data models (e.g., entity-relationship model, relational model).
-    ~ Studied the use of database management systems with an assigned course project (e.g., database design and implementation, query processing). 
+    ~ Introduction to database fundamentals (relational algebra) and data models (E-R model, Relational model).
+    ~ Executed database management systems with an assigned course project (database design/implementation, query processing). 
     ~ Learned new paradigms for data management (e.g., non-relational data models), data integrity, privacy, and security.
     Grade: [A]
     
 -Advanced Object Oriented Programming [CS 3331] 
 
-    ~ An in-depth exposure to the object-oriented programming paradigm, which built upon programming experience gained in lower-level computer science classes.
-    ~ Emphasised on programming in an object-oriented language with which students are already familiar, and on requirements, testing, code reading, and comprehension.
+    ~ Exposure to object-oriented programming paradigm, built upon programming experience gained in lower-level computer science classes.
+    ~ Emphasised requirements, testing, code reading, and comprehension for a language we had already experienced.
     ~ Advanced Java OOT Programming Project completed.
     Grade: [A]
     
