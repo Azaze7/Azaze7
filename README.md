@@ -92,6 +92,7 @@ However, here are my last *ten completed courses,* showing what I am now capable
 
 ## ⌨️ Most Used Languages
 I can code in **many** languages. But here's what I have been using most recently.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 ## 📊 GitHub Stats
