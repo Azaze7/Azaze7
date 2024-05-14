@@ -21,39 +21,48 @@ As I am currently a Senior, I have only *four* more classes to go before my grad
 
     ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
     ~ First semester of a two-semester CAPSTONE project in which students worked with a customer to capture and specify requirements for a real-world application.
-    Role: Team Leader - [A].
+    Role: Team Leader.
+    Grade: [B].
     
 -Computer Networks [CS 4316]
 
     ~ Introduction to data communications; covered data transmission, link control, encoding, multiplexing, switching, network topologies, address resolution & protocol layering.
     ~ Also covered routing methods, data security, & distributed systems.
-    [TBD].
+    Grade: [TBD].
     
 -Wireless Networks [CS 4318]
     
     ~ Mixture of theoretical, engineering, and practical topics in contemporary wireless systems for both mobile and home devices.
     ~ Covered fundamental techniques in design and operation of the second, third, and fourth generations of wireless LANs. 
     ~ Placed a significant emphasis on the design of security-related features within wireless networks.
-    [TBD].
+    Grade: [TBD].
     
 -Software Vulnerablities [CS 4177] 
 
     ~ Hands-on workshop-style course that covered common software security vulnerabilities.
     ~ Course consisted of 10 workshops, each covering a particular current software vulnerability.
     ~ Learned WireShark, IDA, Powershell-Empire, & more.
-    -[A]
+    Grade: [A]
     
 -Programming Language Concepts [CS 3360]
 
-    -[B]
+    ~ Design features of modern programming languages, including flow control mechanisms and data structures.
+    ~ Learned techniques for implementation of these features; practiced programming in several representative languages.
+    Grade: [B]
     
 -Database Systems [CS 4342] 
 
-    -[A]
+    ~ Introduction to database fundamentals (e.g., relational algebra) and data models (e.g., entity-relationship model, relational model).
+    ~ Studied the use of database management systems with an assigned course project (e.g., database design and implementation, query processing). 
+    ~ Learned new paradigms for data management (e.g., non-relational data models), data integrity, privacy, and security.
+    Grade: [A]
     
 -Advanced Object Oriented Programming [CS 3331] 
 
-    -[A]
+    ~ An in-depth exposure to the object-oriented programming paradigm, which built upon programming experience gained in lower-level computer science classes.
+    ~ Emphasised on programming in an object-oriented language with which students are already familiar, and on requirements, testing, code reading, and comprehension.
+    ~ Advanced Java OOT Programming Project completed.
+    Grade: [A]
     
 -Operating Systems Concepts [CS 4375]
 
