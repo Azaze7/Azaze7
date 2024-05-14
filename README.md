@@ -7,10 +7,10 @@
 My Name is *Gilbert Guzman*, & I'm an aspiring **Cyber Security Analyst** from El Paso, Texas. 
 I'm Currently Enrolled at **The University of Texas at El Paso** in Computer Science.
 
-I'm learning how to write code, one step at a time. 
-I enjoy drawing up and concepting UI's, but I'm always ready to get hands on to make things work.
+I've learned to write code, but I know there's always a bigger fish! 
+I'm never going to stop learning, and I love that very much. 
 
-My Skillset
+I'm very passionate about tech, especially in regards to the front-end and user experience. I want to use my skills to help others build projects that will make the world a better place. I'm currently focused on cybersecurity and ethical hacking, and enjoy concepting products that can made with older sytems. The *blue ocean* stategy is one that really interests me.
 
-JS, Python
+
 
