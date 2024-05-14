@@ -18,33 +18,43 @@ I'm currently focused on cybersecurity and ethical hacking, and enjoy concepting
 As I am currently a Senior, I have only *four* more classes to go before my graduation. However, here are my last 10 completed courses, showing what I now have knowlege of.
 
 -Software Engineering Requirements 1 [CS 4310] 
+
     -Team Leader for CAPSTONE Project. [A]
     
 -Computer Networks [CS 4316]
+
     -[TBD]
     
 -Wireless Networks [CS 4318]
+
     -[TBD]
     
 -Software Vulnerablities [CS 4177] 
+
     -[A]
     
 -Programming Language Concepts [CS 3360]
+
     -[B]
     
 -Database Systems [CS 4342] 
+
     -[A]
     
 -Advanced Object Oriented Programming [CS 3331] 
+
     -[A]
     
 -Operating Systems Concepts [CS 4375]
+
     -[A]
 
 -Automata/Computability/Formal-Languages [CS 3350] 
+
     -[B]
     
 -Algorithmic Thinking in Problem Solving [CS 2210]
+
     -[A]
 
 ## 📼 Personal Projects
