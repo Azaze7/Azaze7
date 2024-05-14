@@ -13,6 +13,8 @@ I'm never going to stop learning, and I love that very much.
 I'm very passionate about tech, especially in regards to the front-end and user experience. I want to use my skills to help others build projects that will make the world a better place.
 I'm currently focused on cybersecurity and ethical hacking, and enjoy concepting products that can made with older sytems. The *blue ocean* stategy is one that really interests me.
 
+## 📼 Personal Projects
+
 ## 💽 Course Work
 
 As I am currently a Senior, I have only **four** more classes to go before my graduation.
@@ -27,7 +29,7 @@ However, here are my last *ten completed courses,* showing what I am now capable
     Role: Team Leader.
     Grade: [TBD].
     
-🔌Computer Networks [CS 4316]
+🖥️Computer Networks [CS 4316]
 
     ~ Introduction to data communications; covered data transmission, link control, encoding, multiplexing, & switching. 
     ~ Also covered network topologies, protocol layering, routing methods, data security, & distributed systems.
@@ -60,7 +62,7 @@ However, here are my last *ten completed courses,* showing what I am now capable
     ~ Learned new paradigms for data management (e.g., non-relational data models), data integrity, privacy, and security.
     Grade: [A]
     
-🧰Advanced Object Oriented Programming [CS 3331] 
+🧰Advanced Object-Oriented Programming [CS 3331] 
 
     ~ Exposure to object-oriented programming paradigm, built upon programming experience gained in lower-level CS classes.
     ~ Emphasised requirements, testing, code reading, and comprehension for a language we had already experienced.
@@ -85,8 +87,6 @@ However, here are my last *ten completed courses,* showing what I am now capable
     ~ Practice solving problems employers use during real world interviews.
     ~ Developed analytical, coding, and communication skills.
     Grade: [A]
-
-## 📼 Personal Projects
 
 ## ⌨️ Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
