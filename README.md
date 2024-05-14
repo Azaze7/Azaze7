@@ -28,12 +28,12 @@ As I am currently a Senior, I have only *four* more classes to go before my grad
 -Computer Networks [CS 4316]
 
     ~ Introduction to data communications; covered data transmission, link control, encoding, multiplexing, & switching. 
-    ~ Also covered network topologies, address resolution & protocol layering, routing methods, data security, & distributed systems.
+    ~ Also covered network topologies, protocol layering, routing methods, data security, & distributed systems.
     Grade: [TBD].
     
 -Wireless Networks [CS 4318]
     
-    ~ Mixture of theoretical, engineering, and practical topics in contemporary wireless systems for both mobile and home devices.
+    ~ Mixture of theoretical, engineering, and practical topics in contemporary wireless systems for mobile and home devices.
     ~ Covered fundamental techniques in design and operation of the second, third, and fourth generations of wireless LANs. 
     ~ Placed a significant emphasis on the design of security-related features within wireless networks.
     Grade: [TBD].
