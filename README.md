@@ -20,7 +20,8 @@ As I am currently a Senior, I have only *four* more classes to go before my grad
 -Software Engineering Requirements 1 [CS 4310] 
 
     ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
-    ~ First semester of a two-semester CAPSTONE project in which students worked with a customer to capture and specify requirements for a real-world application.
+    ~ First semester of a 2 semester CAPSTONE project in which students worked with a customer.
+    ~ Captured and specified requirements for a real-world application.
     Role: Team Leader.
     Grade: [B].
     
