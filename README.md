@@ -15,6 +15,8 @@ I'm currently focused on cybersecurity and ethical hacking, and enjoy concepting
 
 ## 📼 Personal Projects
 
+I can eat 7 cheetos without drinking water.
+
 ## 💽 Course Work
 
 As I am currently a Senior, I have only **four** more classes to go before my graduation.
