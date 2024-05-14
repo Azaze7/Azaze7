@@ -15,7 +15,8 @@ I'm currently focused on cybersecurity and ethical hacking, and enjoy concepting
 
 ## 💽 Course Work
 
-As I am currently a Senior, I have only *four* more classes to go before my graduation. However, here are my last 10 completed courses, showing what I now have knowlege of.
+As I am currently a Senior, I have only **four** more classes to go before my graduation. 
+However, here are my last *ten completed courses,* showing what I am now capable of.
 
 -Software Engineering Requirements 1 [CS 4310] 
 
