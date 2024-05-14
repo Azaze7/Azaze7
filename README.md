@@ -60,7 +60,7 @@ As I am currently a Senior, I have only *four* more classes to go before my grad
     
 -Advanced Object Oriented Programming [CS 3331] 
 
-    ~ Exposure to object-oriented programming paradigm, built upon programming experience gained in lower-level computer science classes.
+    ~ Exposure to object-oriented programming paradigm, built upon programming experience gained in lower-level CS classes.
     ~ Emphasised requirements, testing, code reading, and comprehension for a language we had already experienced.
     ~ Advanced Java OOT Programming Project completed.
     Grade: [A]
