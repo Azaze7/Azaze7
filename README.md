@@ -91,9 +91,12 @@ However, here are my last *ten completed courses,* showing what I am now capable
     Grade: [A]
 
 ## ⌨️ Most Used Languages
+I can code in **many** languages. But here's what I have been using most recently.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 ## 📊 GitHub Stats
+I usually code my projects locally, uploading my finished code after the fact to this Github Profile.
+Please excuse these stats, if they appear a little low. 
 ![Azaze7's GitHub stats](https://github-readme-stats.vercel.app/api?username=azaze7&show_icons=true&theme=swift)
 
 
