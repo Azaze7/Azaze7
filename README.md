@@ -20,15 +20,15 @@ As I am currently a Senior, I have only *four* more classes to go before my grad
 -Software Engineering Requirements 1 [CS 4310] 
 
     ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
-    ~ First semester of a 2 semester CAPSTONE project in which students worked with a customer.
-    ~ Captured and specified requirements for a real-world application.
+    ~ First semester of a two-semester CAPSTONE project in which students worked with a customer.
+    ~ Captured and specified requirements for a real-world application, to be coded in Fall 2024.
     Role: Team Leader.
     Grade: [B].
     
 -Computer Networks [CS 4316]
 
-    ~ Introduction to data communications; covered data transmission, link control, encoding, multiplexing, switching, network topologies, address resolution & protocol layering.
-    ~ Also covered routing methods, data security, & distributed systems.
+    ~ Introduction to data communications; covered data transmission, link control, encoding, multiplexing, & switching. 
+    ~ Also covered network topologies, address resolution & protocol layering, routing methods, data security, & distributed systems.
     Grade: [TBD].
     
 -Wireless Networks [CS 4318]
