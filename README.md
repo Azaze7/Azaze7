@@ -21,7 +21,7 @@ As I am currently a Senior, I have only **four** more classes to go before my gr
 
 However, here are my last *ten completed courses,* showing what I am now capable of.
 
-🧑🏽‍💻Software Engineering Requirements 1 [CS 4310] 
+🧑🏽‍💻Software Engineering Requirements 1. [CS 4310].
 
     ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
     ~ First semester of a two-semester CAPSTONE project in which students worked with a customer.
@@ -29,60 +29,60 @@ However, here are my last *ten completed courses,* showing what I am now capable
     Role: Team Leader.
     Grade: [TBD].
     
-🖥️Computer Networks [CS 4316]
+🖥️Computer Networks. [CS 4316].
 
     ~ Introduction to data communications; covered data transmission, link control, encoding, multiplexing, & switching. 
     ~ Also covered network topologies, protocol layering, routing methods, data security, & distributed systems.
     Grade: [TBD].
     
-🌐Wireless Networks [CS 4318]
+🌐Wireless Networks. [CS 4318].
     
     ~ Mixture of theoretical, engineering, and practical topics in contemporary wireless systems for mobile and home devices.
     ~ Covered fundamental techniques in design and operation of the second, third, and fourth generations of wireless LANs. 
     ~ Placed a significant emphasis on the design of security-related features within wireless networks.
     Grade: [TBD].
     
-👾Software Vulnerablities [CS 4177] 
+👾Software Vulnerablities. [CS 4177].
 
     ~ Hands-on workshop-style course that covered common software security vulnerabilities.
     ~ Course consisted of 10 workshops, each covering a particular current software vulnerability.
     ~ Learned WireShark, IDA, Powershell-Empire, & more.
     Grade: [A]
     
-📓Programming Language Concepts [CS 3360]
+📓Programming Language Concepts. [CS 3360].
 
     ~ Design features of modern programming languages, including flow control mechanisms and data structures.
     ~ Learned techniques for implementation of these features; practiced programming in several representative languages.
     Grade: [B]
     
-📟Database Systems [CS 4342] 
+📟Database Systems. [CS 4342].
 
     ~ Introduction to database fundamentals (relational algebra) and data models (E-R model, Relational model).
     ~ Executed database management systems with an assigned course project (database design/implementation, query processing). 
     ~ Learned new paradigms for data management (e.g., non-relational data models), data integrity, privacy, and security.
     Grade: [A]
     
-🧰Advanced Object-Oriented Programming [CS 3331] 
+🧰Advanced Object-Oriented Programming. [CS 3331].
 
     ~ Exposure to object-oriented programming paradigm, built upon programming experience gained in lower-level CS classes.
     ~ Emphasised requirements, testing, code reading, and comprehension for a language we had already experienced.
     ~ Advanced Java OOT Programming Project completed.
     Grade: [A]
     
-📱Operating Systems Concepts [CS 4375]
+📱Operating Systems Concepts. [CS 4375].
 
     ~ Learned about Process/thread management, processor scheduling and concurrency, & interprocess communication. 
     ~ Covered memory management, input/output management, file systems, socket programming, and networking basics.
     Grade: [A]
 
-🧮Automata/Computability/Formal-Languages [CS 3350] 
+🧮Automata/Computability/Formal-Languages. [CS 3350].
 
     ~ Theoretical computing models and the formal languages they characterize: finite state machines, regular expressions.
     ~ Covered pushdown automata, context-free grammars, Turing machines and computability.
     ~ Discussed capabilities/limitations of each model, and applications including lexical analysis and parsing.
     Grade: [B]
     
-🧠Algorithmic Thinking in Problem Solving [CS 2210]
+🧠Algorithmic Thinking in Problem Solving. [CS 2210].
 
     ~ Practice solving problems employers use during real world interviews.
     ~ Developed analytical, coding, and communication skills.
