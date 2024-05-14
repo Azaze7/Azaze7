@@ -18,5 +18,6 @@ I'm currently focused on cybersecurity and ethical hacking, and enjoy concepting
 ## 📼 Personal Projects
 
 ## 📊 GitHub Stats
+![Azaze7's GitHub stats](https://github-readme-stats.vercel.app/api?username=azaze7&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azaze7&theme=graywhite&layout=donut)
 
