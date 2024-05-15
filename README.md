@@ -109,5 +109,5 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
 </p>
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Azaze7/Azaze7/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Azaze7/Azaze7/output/github-contribution-grid-snake.gif" />
 </div>
