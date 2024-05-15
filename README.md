@@ -92,16 +92,13 @@ However, here are my last *ten completed courses,* showing what I am now capable
     ~ Developed analytical, coding, and communication skills.
     Grade: [A]
 
-## ⌨️ Most Used Languages
-I can code in ***many*** languages. But here's what I have been using most recently.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-
 ## 📊 GitHub Stats
 I usually code my projects locally, uploading my finished code afterwards to this Github Profile.
 Please excuse these stats.
+<p align="center">
  <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Azaze7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Azaze7&show_icons=true&theme=dark#gh-dark-mode-only"></a>
  <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azaze7&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"></a>
-![Azaze7's GitHub stats](https://github-readme-stats.vercel.app/api?username=azaze7&show_icons=true&theme=swift)
+<img alt="Snake animation" src="https://github.com/Azaze7/Azaze7/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+</p>
 
 
