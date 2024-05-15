@@ -1,12 +1,14 @@
 [![Header](Guzman_header.gif "Header")](https://azaze7.github.io)
 
 
-<img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_thumbsup.gif" height="40px"> Howdy! I'm Azaze7, Welcome To My Profile!
+<img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_thumbsup.gif" height="40px"> Howdy! I'm Gilbert Guzman, Welcome To My Profile!
 ===============
 
-My Name is *Gilbert Guzman*, & I'm an aspiring **Cyber Security Analyst** from El Paso, Texas. 
-I'm Currently Enrolled at **The University of Texas at El Paso** in Computer Science.
+📍 Born and Raised in El Paso, Texas.
+💻 Aspiring **Cyber Security Analyst**, Currently Enrolled at **The University of Texas at El Paso** in Computer Science.
+💾 Data Archivist By Day, 🕹️ Game Development By Night.
 
+**A Little About Me**
 I've learned to write code, but I know there's always a bigger fish! 
 I'm never going to stop learning, and I love that very much. 
 
@@ -29,20 +31,20 @@ However, here are my last *ten completed courses,* showing what I am now capable
     ~ First semester of a two-semester CAPSTONE project in which students worked with a customer.
     ~ Captured and specified requirements for a real-world application, to be coded in Fall 2024.
     Role: Team Leader.
-    Grade: [TBD].
+    Grade: [A].
     
 🖥️Computer Networks. [CS 4316].
 
     ~ Introduction to data communications; covered data transmission, link control, encoding, multiplexing, & switching. 
     ~ Also covered network topologies, protocol layering, routing methods, data security, & distributed systems.
-    Grade: [TBD].
+    Grade: [A].
     
 🌐Wireless Networks. [CS 4318].
     
     ~ Mixture of theoretical, engineering, and practical topics in contemporary wireless systems for mobile and home devices.
     ~ Covered fundamental techniques in design and operation of the second, third, and fourth generations of wireless LANs. 
     ~ Placed a significant emphasis on the design of security-related features within wireless networks.
-    Grade: [TBD].
+    Grade: [B].
     
 👾Software Vulnerablities. [CS 4177].
 
@@ -98,7 +100,7 @@ I can code in ***many*** languages. But here's what I have been using most recen
 ## 📊 GitHub Stats
 I usually code my projects locally, uploading my finished code afterwards to this Github Profile.
 Please excuse these stats.
-
+ <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Azaze7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Azaze7&show_icons=true&theme=dark#gh-dark-mode-only"></a>
 ![Azaze7's GitHub stats](https://github-readme-stats.vercel.app/api?username=azaze7&show_icons=true&theme=swift)
 
 
