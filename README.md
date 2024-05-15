@@ -10,7 +10,7 @@
 
 💾 **Data Archivist** By Day, 🕹️ **Game Developer** By Night.
 
-***A Little About Me***
+***My Computer Science Story***
 
 From an early age, I was introduced to the world of technology by my grandmother, who helped me navigate the digital landscape via AOL dial-up since I was **three years old.**
 
@@ -24,9 +24,9 @@ I can eat 7 cheetos without drinking water.
 
 ## 💽 Course Work
 
-As I am currently a Senior, I have only **four** more classes to go before my graduation.
+I am currently a Senior, with only **four** more courses before my graduation.
 
-However, here are my last *ten completed courses,* showing what I am now capable of.
+Here are my ***ten*** most recent completed courses, all of which are relevant to my degree plan:
 
 🧑🏽‍💻Software Engineering Requirements 1. [CS 4310].
 
@@ -78,8 +78,9 @@ However, here are my last *ten completed courses,* showing what I am now capable
     
 📱Operating Systems Concepts. [CS 4375].
 
-    ~ Learned about Process/thread management, processor scheduling and concurrency, & interprocess communication. 
+    ~ Learned about Process/thread management, processor scheduling, concurrency, & interprocess communication. 
     ~ Covered memory management, input/output management, file systems, socket programming, and networking basics.
+    ~ Created several projects that showed concurrency without deadlock or race conditions.
     Grade: [A].
 
 🧮Automata/Computability/Formal-Languages. [CS 3350].
@@ -96,15 +97,14 @@ However, here are my last *ten completed courses,* showing what I am now capable
     Grade: [A].
 
 ## 📊 GitHub Stats
-⚠️ Though not a fully accurate reflection of what I *can* do, these graphs serve as a visualization of what I have stored here on Github.
+⚠️ Though not a fully accurate reflection of what I ***can*** do, these graphs serve as a visualization of what I have stored here on Github.
 
-🗄️ I tend to code my projects locally, exporting the finished proects to my repos for archive purposes.
+🗄️ I tend to code my projects locally, exporting the finished proects to my repos for archive purposes. I'm working towards fixing this bad habit. 
 
 <p align="center">
     <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Azaze7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Azaze7&show_icons=true&theme=dark#gh-dark-mode-only"></a>
     <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azaze7&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"></a>
     <img alt="Snake animation" src="https://github.com/Azaze7/Azaze7/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-    
 </p>
 
 
