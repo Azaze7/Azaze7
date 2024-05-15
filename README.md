@@ -10,16 +10,15 @@
 💻 I'm an Aspiring ***Cyber Security Analyst/Coder.***
 * I'm Currently Enrolled at **The University of Texas at El Paso** in Computer Science as a Senior.
 
-💾 **Data Archivist** By Day, 🕹️ **Game Developer** By Night.
-
+🌎 I am committed to using technology as a tool for change, fostering innovation that will **lead to a better world.**
 
 ## ⌨️ My Computer Science Story
 
-📠 From an early age, I was introduced to the world of technology by my grandmother, who helped me navigate the digital landscape via AOL dial-up since I was **three years old.**
+* From an early age, I was introduced to the world of technology by my grandmother, who helped me navigate the digital landscape via AOL dial-up [📠] since I was **three years old.**
 
-🛜 When I make my own projects, my passion lies in front-end development and the user experience. I am deeply invested in creating interfaces that are not only functional but also **intuitive and user-friendly.**
+* When I code my own projects, my passion lies in front-end development and the user experience. I am deeply invested in creating interfaces [🛜] that are not only functional but also **intuitive and user-friendly.**
 
-🌎 I am committed to using technology as a tool for change, fostering innovation that will **lead to a better world.**
+* My current interests lie in the concept of **Data Archival** [💾] and **Game Development.** [🕹️] When I have some time to myself, I'll usually be reading about these topics.
 
 ## 📼 Personal Projects
 
