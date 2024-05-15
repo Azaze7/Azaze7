@@ -18,7 +18,7 @@
 
 * When I code my own projects, my passion lies in front-end development and the user experience. I am deeply invested in creating interfaces [🛜] that are not only functional but also **intuitive and user-friendly.**
 
-* My current interests lie in the concept of **Data Archival** [💾] and **Game Development.** [🕹️] When I have some time to myself, I'll usually be reading about these topics.
+* My current interests lie in the concepts of **Data Archival** [💾] and **Ethical Hacking.** [🐱‍💻] When I have some time to myself, I'll usually be reading about these topics.
 
 ## 📼 Personal Projects
 
