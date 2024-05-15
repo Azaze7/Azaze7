@@ -16,7 +16,7 @@
 
 * From an early age, I was introduced to the world of technology by my grandmother, who helped me navigate the digital landscape via AOL dial-up [📎] since I was **three years old.**
 
-* I prefer to work on others projects, but when I code my own, my passion lies in front-end development and the user experience. I am deeply invested in creating interfaces that are not only functional but also **intuitive and user-friendly.** [🎮] 
+* I prefer to work on the projects of others, but when I code my own, my passion lies in front-end development and the user experience. I am deeply invested in creating interfaces that are not only functional but also **intuitive and user-friendly.** [🎮] 
 
 * My current interests lie in the concepts of **Data Archival** [💾] and **Ethical Hacking.** [🔐] When I have some time to myself, I'll usually be reading about these topics.
 
@@ -99,9 +99,9 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
     Grade: [A].
 
 ## 📊 GitHub Stats
-⚠️ Though not a fully accurate reflection of what I ***can*** do, these graphs serve as a visualization of what I have stored here on Github.
+⚠️ Though not a fully accurate reflection of what I ***can*** do, these graphs serve as a visual representation of what I have stored here on Github.
 
-🗄️ I tend to code my projects locally, exporting the finished proects to my repos for archive purposes. I'm working towards fixing this bad habit. 
+🗄️ I tend to code my projects locally, exporting the finished proects to my repos for archive purposes. I'm working towards fixing this bad habit so that my code leaves and breathes on the net.
 
 <p align="center">
     <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Azaze7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Azaze7&show_icons=true&theme=dark#gh-dark-mode-only"></a>
