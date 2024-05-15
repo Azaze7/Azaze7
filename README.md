@@ -11,7 +11,7 @@
 💾 **Data Archivist** By Day, 🕹️ **Game Developer** By Night.
 
 
-***My Computer Science Story***
+## ⌨️ My Computer Science Story
 
 From an early age, I was introduced to the world of technology by my grandmother, who helped me navigate the digital landscape via AOL dial-up since I was **three years old.**
 
