@@ -10,7 +10,8 @@
 
 💾 **Data Archivist** By Day, 🕹️ **Game Developer** By Night.
 
-**A Little About Me**
+***A Little About Me***
+
 From an early age, I was introduced to the world of technology, by my grandmother, who helped me navigate the digital landscape via AOL dial-up since I was **three years old.**
 
 When I make my own projects, my passion lies in front-end development and the user experience. I am deeply invested in creating interfaces that are not only functional but also **intuitive and user-friendly.**
