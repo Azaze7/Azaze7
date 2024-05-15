@@ -26,7 +26,7 @@ I can eat 7 cheetos without drinking water.
 
 ## 💽 Course Work
 
-I am currently a Senior, with only **four** more courses before my graduation.
+I am currently a Senior, with only **four** more courses to complete before my graduation.
 
 Here are my ***ten*** most recent completed courses, all of which are relevant to my degree plan:
 
