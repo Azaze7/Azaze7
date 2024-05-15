@@ -4,9 +4,11 @@
 <img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_thumbsup.gif" height="40px"> Howdy! I'm Azaze7, Welcome To My Profile!
 ===============
 
-📍 I'm Gilbert Guzman, Born and Raised in **El Paso, Texas.**
+📍 My Name is Gilbert Guzman.
+    * I was Born and Raised in **El Paso, Texas.**
 
-💻 Aspiring **Cyber Security Analyst**, Currently Enrolled at **The University of Texas at El Paso** in Computer Science.
+💻 I'm an Aspiring ***Cyber Security Analyst/Coder.***
+    * I'm Currently Enrolled at **The University of Texas at El Paso** in Computer Science as a Senior.
 
 💾 **Data Archivist** By Day, 🕹️ **Game Developer** By Night.
 
