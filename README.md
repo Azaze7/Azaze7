@@ -101,7 +101,7 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
 ## 📊 GitHub Stats
 ⚠️ Though not a fully accurate reflection of what I ***can*** do, these graphs serve as a visual representation of what I have stored here on Github.
 
-🗄️ I tend to code my projects locally, exporting the finished ones to my repos for archive purposes. I'm working towards fixing this bad habit so that my code leaves and breathes on the net. :3
+🗄️ I tend to code my projects locally, exporting the finished ones to my repos for archive purposes. I'm working towards fixing this bad habit so that my code lives and breathes on the net. :3
 
 <p align="center">
     <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Azaze7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Azaze7&show_icons=true&theme=dark#gh-dark-mode-only"></a>
