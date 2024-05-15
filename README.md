@@ -7,7 +7,7 @@
 📍 My Name is Gilbert Guzman, and I'm 23 Years Old.
 * I was Born and Raised in **El Paso, Texas.**
 
-💻 I'm an Aspiring ***Cyber Security Analyst/Coder.***
+💻 I'm an Aspiring ***Cyber Security Analyst / Software Developer.***
 * I'm Currently Enrolled at **The University of Texas at El Paso** in Computer Science as a Senior.
 
 🌎 I am committed to using technology as a tool for change, fostering innovation that will **lead to a better world.**
@@ -101,7 +101,7 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
 ## 📊 GitHub Stats
 ⚠️ Though not a fully accurate reflection of what I ***can*** do, these graphs serve as a visual representation of what I have stored here on Github.
 
-🗄️ I tend to code my projects locally, exporting the finished proects to my repos for archive purposes. I'm working towards fixing this bad habit so that my code leaves and breathes on the net.
+🗄️ I tend to code my projects locally, exporting the finished ones to my repos for archive purposes. I'm working towards fixing this bad habit so that my code leaves and breathes on the net. :3
 
 <p align="center">
     <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Azaze7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Azaze7&show_icons=true&theme=dark#gh-dark-mode-only"></a>
