@@ -5,15 +5,19 @@
 ===============
 
 📍 Born and Raised in El Paso, Texas.
+
 💻 Aspiring **Cyber Security Analyst**, Currently Enrolled at **The University of Texas at El Paso** in Computer Science.
+
 💾 Data Archivist By Day, 🕹️ Game Development By Night.
 
 **A Little About Me**
-I've learned to write code, but I know there's always a bigger fish! 
-I'm never going to stop learning, and I love that very much. 
+I began to use computers early on in my life, getting on them as early as three years old.
 
-I'm very passionate about tech, especially in regards to the front-end and user experience. I want to use my skills to help others build projects that will make the world a better place.
-I'm currently focused on cybersecurity and ethical hacking, and enjoy concepting products that can made with older sytems. The *blue ocean* stategy is one that really interests me.
+I know there is always a bigger fish, so the prospect of learning for the rest of my life excites me.
+
+I'm very passionate about tech, especially in regards to the front-end and user experience. 
+
+I want to use my skills to help others build projects that will make the world a better place.
 
 ## 📼 Personal Projects
 
@@ -93,8 +97,9 @@ However, here are my last *ten completed courses,* showing what I am now capable
     Grade: [A]
 
 ## 📊 GitHub Stats
-I usually code my projects locally, uploading my finished code afterwards to this Github Profile.
-Please excuse these stats.
+⚠️ Though not a fully accurate reflection of what I *can* do, these serve as a visualization of what I have stored here on Github.
+
+🗄️ I tend to code my projects locally, exporting the finished proects to my repositiories for archive purposes.
 
 <p align="center">
     <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Azaze7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Azaze7&show_icons=true&theme=dark#gh-dark-mode-only"></a>
