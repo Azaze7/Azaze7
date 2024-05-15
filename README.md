@@ -14,9 +14,9 @@
 
 ## ⌨️ My Computer Science Story
 
-* From an early age, I was introduced to the world of technology by my grandmother, who helped me navigate the digital landscape via AOL dial-up [📠] since I was **three years old.**
+* From an early age, I was introduced to the world of technology by my grandmother, who helped me navigate the digital landscape via AOL dial-up [📎] since I was **three years old.**
 
-* I prefer to work on others projects, but when I code my own, my passion lies in front-end development and the user experience. I am deeply invested in creating interfaces that are not only functional but also **intuitive and user-friendly.**[🎮] 
+* I prefer to work on others projects, but when I code my own, my passion lies in front-end development and the user experience. I am deeply invested in creating interfaces that are not only functional but also **intuitive and user-friendly.** [🎮] 
 
 * My current interests lie in the concepts of **Data Archival** [💾] and **Ethical Hacking.** [🔐] When I have some time to myself, I'll usually be reading about these topics.
 
