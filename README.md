@@ -5,10 +5,10 @@
 ===============
 
 📍 My Name is Gilbert Guzman.
-    * I was Born and Raised in **El Paso, Texas.**
+* I was Born and Raised in **El Paso, Texas.**
 
 💻 I'm an Aspiring ***Cyber Security Analyst/Coder.***
-    * I'm Currently Enrolled at **The University of Texas at El Paso** in Computer Science as a Senior.
+* I'm Currently Enrolled at **The University of Texas at El Paso** in Computer Science as a Senior.
 
 💾 **Data Archivist** By Day, 🕹️ **Game Developer** By Night.
 
