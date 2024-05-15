@@ -106,7 +106,6 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
 <p align="center">
     <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Azaze7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Azaze7&show_icons=true&theme=dark#gh-dark-mode-only"></a>
     <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azaze7&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"></a>
+    ![snake gif](https://github.com/Azaze7/Azaze7/blob/output/github-contribution-grid-snake.gif)
 </p>
-
-![snake gif](https://github.com/Azaze7/Azaze7/blob/output/github-contribution-grid-snake.gif)
 
