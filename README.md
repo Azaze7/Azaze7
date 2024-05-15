@@ -4,7 +4,7 @@
 ===============
 
 📍 My Name is Gilbert Guzman, and I'm 23 Years Old.
-* I was Born and Raised in **El Paso, Texas.**
+* I was Born and Raised in **El Paso, Texas, USA.**
 
 💻 I'm an Aspiring ***Cyber Security Analyst / Software Developer.***
 * I'm Currently Enrolled at **The University of Texas at El Paso** in Computer Science as a Senior.
