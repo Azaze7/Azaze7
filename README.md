@@ -1,23 +1,21 @@
 [![Header](Guzman_header.gif "Header")](https://azaze7.github.io)
 
 
-<img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_thumbsup.gif" height="40px"> Howdy! I'm Gilbert Guzman, Welcome To My Profile!
+<img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_thumbsup.gif" height="40px"> Howdy! I'm Azaze7, Welcome To My Profile!
 ===============
 
-📍 Born and Raised in El Paso, Texas.
+📍 Born and Raised in **El Paso, Texas.**
 
 💻 Aspiring **Cyber Security Analyst**, Currently Enrolled at **The University of Texas at El Paso** in Computer Science.
 
-💾 Data Archivist By Day, 🕹️ Game Development By Night.
+💾 **Data Archivist** By Day, 🕹️ **Game Developer** By Night.
 
 **A Little About Me**
-I began to use computers early on in my life, getting on them as early as three years old.
+From an early age, I was introduced to the world of technology, by my grandmother, who helped me navigate the digital landscape via AOL dial-up since I was **three years old.**
 
-I know there is always a bigger fish, so the prospect of learning for the rest of my life excites me.
+When I make my own projects, my passion lies in front-end development and the user experience. I am deeply invested in creating interfaces that are not only functional but also **intuitive and user-friendly.**
 
-I'm very passionate about tech, especially in regards to the front-end and user experience. 
-
-I want to use my skills to help others build projects that will make the world a better place.
+I am committed to using technology as a tool for change, fostering innovation that will **lead to a better world.**
 
 ## 📼 Personal Projects
 
@@ -55,51 +53,51 @@ However, here are my last *ten completed courses,* showing what I am now capable
     ~ Hands-on workshop-style course that covered common software security vulnerabilities.
     ~ Course consisted of 10 workshops, each covering a particular current software vulnerability.
     ~ Learned WireShark, IDA, Powershell-Empire, & more.
-    Grade: [A]
+    Grade: [A].
     
 📓Programming Language Concepts. [CS 3360].
 
     ~ Design features of modern programming languages, including flow control mechanisms and data structures.
     ~ Learned techniques for implementation of these features; practiced programming in several representative languages.
-    Grade: [B]
+    Grade: [B].
     
 📟Database Systems. [CS 4342].
 
     ~ Introduction to database fundamentals (relational algebra) and data models (E-R model, Relational model).
     ~ Executed database management systems with an assigned course project (database design/implementation, query processing). 
     ~ Learned new paradigms for data management (e.g., non-relational data models), data integrity, privacy, and security.
-    Grade: [A]
+    Grade: [A].
     
 🧰Advanced Object-Oriented Programming. [CS 3331].
 
     ~ Exposure to object-oriented programming paradigm, built upon programming experience gained in lower-level CS classes.
     ~ Emphasised requirements, testing, code reading, and comprehension for a language we had already experienced.
     ~ Advanced Java OOT Programming Project completed.
-    Grade: [A]
+    Grade: [A].
     
 📱Operating Systems Concepts. [CS 4375].
 
     ~ Learned about Process/thread management, processor scheduling and concurrency, & interprocess communication. 
     ~ Covered memory management, input/output management, file systems, socket programming, and networking basics.
-    Grade: [A]
+    Grade: [A].
 
 🧮Automata/Computability/Formal-Languages. [CS 3350].
 
     ~ Theoretical computing models and the formal languages they characterize: finite state machines, regular expressions.
     ~ Covered pushdown automata, context-free grammars, Turing machines and computability.
     ~ Discussed capabilities/limitations of each model, and applications including lexical analysis and parsing.
-    Grade: [B]
+    Grade: [B].
     
 🧠Algorithmic Thinking in Problem Solving. [CS 2210].
 
     ~ Practice solving problems employers use during real world interviews.
     ~ Developed analytical, coding, and communication skills.
-    Grade: [A]
+    Grade: [A].
 
 ## 📊 GitHub Stats
-⚠️ Though not a fully accurate reflection of what I *can* do, these serve as a visualization of what I have stored here on Github.
+⚠️ Though not a fully accurate reflection of what I *can* do, these graphs serve as a visualization of what I have stored here on Github.
 
-🗄️ I tend to code my projects locally, exporting the finished proects to my repositiories for archive purposes.
+🗄️ I tend to code my projects locally, exporting the finished proects to my repos for archive purposes.
 
 <p align="center">
     <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Azaze7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Azaze7&show_icons=true&theme=dark#gh-dark-mode-only"></a>
