@@ -8,7 +8,7 @@
 
 💻 I'm an Aspiring ***Cyber Security Analyst / Software Developer.***
 * I'm Currently Enrolled at **The University of Texas at El Paso** in Computer Science as a Senior.
-* **GPA: [3.2]**
+* **GPA: [3.22]**
 
 🌎 I am committed to using technology as a tool for change, fostering innovation that will **lead to a better world.**
 
