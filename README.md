@@ -71,7 +71,7 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
     ~ Learned new paradigms for data management (e.g., non-relational data models), data integrity, privacy, and security.
     Grade: [A].
     
-🧰Advanced Object-Oriented Programming. [CS 3331].
+🛠️Advanced Object-Oriented Programming. [CS 3331].
 
     ~ Exposure to object-oriented programming paradigm, built upon programming experience gained in lower-level CS classes.
     ~ Emphasised requirements, testing, code reading, and comprehension for a language we had already experienced.
