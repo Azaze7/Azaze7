@@ -112,7 +112,7 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Azaze7/Azaze7/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-## 📝 My Toolbox
+## 🧰 My CS Toolbox
 * I have used many tools while going through my education. Below are all that I have used for at least one purpose.
   
 ***Databases***
