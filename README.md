@@ -133,7 +133,7 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
 
 ***Programming Languages***
 * Low Level
-Assembly machine code
+<img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_Additional_Banner2.png" width="75" height="30">
 
 * Intermediate Level
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
