@@ -135,8 +135,8 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
 
 | *Low Level* | *Mid Level* | *High Level* |
 | -------- | -------- | -------- |
-| <img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_Additional_Banner2.png" width="90" height="30"> | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> |
-| Cell 4   | C++   | Cell 6   |
+| <img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_Additional_Banner2.png" width="90" height="30"> | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> | <img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_Additional_Banner3.png" width="75" height="30"> |
+| Cell 4   | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | Cell 6   |
 | Cell 7   | Java   | Cell 9   |
 | Cell 10  | Cell 11  | Cell 12  |
 | Cell 13  | Cell 14  | Cell 15  |
