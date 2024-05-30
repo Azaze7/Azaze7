@@ -131,14 +131,11 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 
-| Linux | Column 1 | Column 2 | Column 3 | Column 4 |
-| Windows | Cell 1   | Cell 2   | Cell 3   | Cell 4   |
-| Other | Cell 5   | Cell 6   | Cell 7   | Cell 8   |
-
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| -------- | -------- | -------- | -------- |
-| Cell 1   | Cell 2   | Cell 3   | Cell 4   |
-| Cell 5   | Cell 6   | Cell 7   | Cell 8   |
+|        |        |        |        |        |
+| ------ | ------ | ------ | ------ | ------ |
+| Linux | <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> |
+| Windows | <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" /> | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" /> | Cell 10|
+| Other | <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> | <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /> | Cell 14| Cell 15|
 
 
 ***Programming Languages***
