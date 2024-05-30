@@ -113,7 +113,7 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
 </div>
 
 ## 🧰 My CS Toolbox
-* I have used many tools while going through my education. Below are all that I have used for at least one purpose.
+* I have learned to use many tools while on my CS Journey. Below are the tools, languages, IDEs and Operating Systems I am familiar with.
   
 ***Operating Systems***
 
