@@ -113,7 +113,7 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
 </div>
 
 ## 🧰 My CS Toolbox
-* I have learned to use many tools while on my CS Journey. Below are the tools, languages, IDEs, and Operating Systems I am familiar with.
+🖲️ I have learned to use many tools while on my CS Journey. Below are the tools, languages, IDEs, and Operating Systems I am familiar with.
   
 ***Operating Systems***
 * Linux
@@ -130,6 +130,11 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
 * Other
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+
+| Linux | Column 1 | Column 2 | Column 3 | Column 4 |
+| Windows | Cell 1   | Cell 2   | Cell 3   | Cell 4   |
+| Other | Cell 5   | Cell 6   | Cell 7   | Cell 8   |
+
 
 ***Programming Languages***
 * Low Level
