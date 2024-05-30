@@ -133,6 +133,15 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
 | | | | <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> |
 | | | | <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" /> |
 
+| *Low Level* | *Mid Level* | *High Level* |
+| -------- | -------- | -------- |
+| <img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_Additional_Banner2.png" width="90" height="30"> | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> |
+| Cell 4   | C++   | Cell 6   |
+| Cell 7   | Java   | Cell 9   |
+| Cell 10  | Cell 11  | Cell 12  |
+| Cell 13  | Cell 14  | Cell 15  |
+
+
 ***Markup Languages***
 
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />  
