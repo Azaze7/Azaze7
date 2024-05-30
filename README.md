@@ -135,6 +135,11 @@ Here are my ***ten*** most recent completed courses, all of which are relevant t
 | Windows | Cell 1   | Cell 2   | Cell 3   | Cell 4   |
 | Other | Cell 5   | Cell 6   | Cell 7   | Cell 8   |
 
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| -------- | -------- | -------- | -------- |
+| Cell 1   | Cell 2   | Cell 3   | Cell 4   |
+| Cell 5   | Cell 6   | Cell 7   | Cell 8   |
+
 
 ***Programming Languages***
 * Low Level
