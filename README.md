@@ -27,6 +27,7 @@ I can eat 7 cheetos without drinking water.
 ## 💽 Course Work
 
 I am currently a Senior, with only **four** more courses to complete before my graduation. 
+
 [*Expected Graduation Date: Fall 2024*]
 
 These are my ***ten*** most recently completed courses, all of which are relevant to my degree plan:
