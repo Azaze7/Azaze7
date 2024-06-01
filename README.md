@@ -14,9 +14,9 @@
 
 ## ⌨️ My Computer Science Story
 
-* From an early age, I was introduced to the world of technology by my grandmother, who helped me navigate the digital landscape via AOL dial-up [📎] since I was **three years old.**
+* I was introduced to computing at a young age from my grandmother, who helped me navigate the digital landscape via AOL dial-up [📎] since I was **three years old.**
 
-* I prefer to work on the projects of others, but when I code my own, my passion lies in front-end development and the user experience. I am deeply invested in creating interfaces that are not only functional but also **intuitive and user-friendly.** [🎮] 
+* I prefer to collaborate on projects with others on whatever I can help with, but when I code on my own, my passion lies in *front-end development* and the *user experience.* I am deeply invested in creating interfaces that are not only functional, but also are **intuitive and user-friendly.** [🎮] 
 
 * My current interests lie in the concepts of **Data Archival** [💾] and **Ethical Hacking.** [🔐] When I have some time to myself, I'll usually be reading about these topics.
 
@@ -26,9 +26,9 @@ I can eat 7 cheetos without drinking water.
 
 ## 💽 Course Work
 
-I am currently a Senior, with only **four** more courses to complete before my graduation.
+I am currently a Senior, with only **four** more courses to complete before my graduation. [*Expected Graduation Date: Fall 2024*]
 
-Here are my ***ten*** most recent completed courses, all of which are relevant to my degree plan:
+These are my ***ten*** most recently completed courses, all of which are relevant to my degree plan:
 
 🧑🏽‍💻Software Engineering Requirements 1. [CS 4310].
 
