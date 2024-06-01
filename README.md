@@ -113,7 +113,9 @@ These are my ***ten*** most recently completed courses, all of which are relevan
 </div>
 
 ## 🧰 My CS Toolbox
-🖲️ I have learned to use many tools while on my CS Journey. Below are some of the languages, IDEs, and Operating Systems I am familiar with.
+🖲️ I have learned to use many tools while on my CS Journey. Below are some of the languages, IDEs, and Operating Systems that I am familiar with.
+
+🤓 I'm always excited to learn new things, so if you have any advice or praises for anything not listed here, please let me know so I can tinker with it. :)
 
 ***Programming Languages***
 | *Low Level* | *Mid Level* | *High Level* |
