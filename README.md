@@ -63,7 +63,7 @@
 I am currently a Senior, with only **five** more courses to complete before my graduation. 
 
 * [*Expected Graduation Date: Spring 2025*] 🎓
-* [*Degree Pending: Bachelors of Science in Computer Science with a Concentration in Secure Cyber Systems*] 
+* [*Degree Pending: Bachelors of Science in Computer Science with a Concentration in Secure Cyber Systems*] 🔏
 
 These are my ***ten*** most recently completed courses, all of which are relevant to my degree plan:
 
