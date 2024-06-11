@@ -20,10 +20,11 @@
 
 * My current interests lie in the concepts of **Data Archival** [💾] and **Ethical Hacking.** [🔐] When I have some time to myself, I'll usually be reading about these topics.
 
-## 📼 Personal Projects
+## 📼 Key Personal & Education Projects
 
 ✈️MAVERICK. [Created: April 13th, 2024].
 
+    ~ Personal Project.
     ~ Worked alongside members of the Atlas Development team to develop an indie game in under 48 hours.
     ~ Done during the Borderland Glitch Game Jam; with the prompt of making a game on a movie/tv show released in the '80s.
     ~ MAVERICK is a Top Gun themed game inspired by the gameplay style of 1942/Galaga using retro pixel art graphics.
@@ -32,6 +33,7 @@
 
 📝Tic-Tac-Toe-WindowsXP. [Created: December 6th, 2023].
 
+    ~ Personal Project.
     ~ 
     ~
     ~
