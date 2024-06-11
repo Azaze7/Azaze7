@@ -21,6 +21,7 @@
 * My current interests lie in the concepts of **Data Archival** [💾] and **Ethical Hacking.** [🔐] When I have some time to myself, I'll usually be reading about these topics.
 
 ## 📼 Key Personal & Educational Projects
+* Additonal Projects not discussed here can be found in my [*Github Repository!*](https://github.com/Azaze7?tab=repositories "Gilbert's Github Projects").
 
 ✈️MAVERICK. [Created: April 13th, 2024].
 
