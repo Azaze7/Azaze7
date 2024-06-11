@@ -30,7 +30,7 @@
     ~ Our team utilized the Unity engine for gameplay and GIMP for asset creation.
 * Further documentation for Maverick can be found in my writeup, [*here*](https://github.com/Azaze7/MAVERICK "Maverick's Github Repo").
 
-🗷Tic-Tac-Toe-WindowsXP. [Created: December 6th, 2023].
+📝Tic-Tac-Toe-WindowsXP. [Created: December 6th, 2023].
 
     ~ 
     ~
