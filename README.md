@@ -60,9 +60,9 @@
 
 ## 💽 Course Work
 
-I am currently a Senior, with only **four** more courses to complete before my graduation. 
+I am currently a Senior, with only **five** more courses to complete before my graduation. 
 
-* [*Expected Graduation Date: Fall 2024*] 🎓
+* [*Expected Graduation Date: Spring 2025*] 🎓
 
 These are my ***ten*** most recently completed courses, all of which are relevant to my degree plan:
 
