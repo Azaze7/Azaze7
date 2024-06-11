@@ -1,6 +1,6 @@
 [![Header](Guzman_header.gif "Header")](https://azaze7.github.io)
 
-<img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_thumbsup.gif" height="40px"> Howdy! I'm Azaze7, Welcome To My Profile!!
+<img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_thumbsup.gif" height="40px"> Howdy! I'm Azaze7, Welcome To My Profile!
 ===============
 
 📍 My Name is Gilbert Guzman, and I'm 23 Years Old.
@@ -22,7 +22,11 @@
 
 ## 📼 Personal Projects
 
-I can eat 7 cheetos without drinking water.
+✈️ MAVERICK [Created: April 13th, 2024]
+Worked alongside members of the Atlas Development team to develop an indie game in under 48 hours.
+Done during the Borderland Glitch Game Jam; with the prompt of making a game on a movie/tv show released in the '80s.
+MAVERICK is a Top Gun themed game inspired by the gameplay style of 1942/Galaga using the Unity engine for gameplay and utilizing GIMP for asset creation.
+Further documentation for the game can be found in my writeup, *here*.
 
 ## 💽 Course Work
 
