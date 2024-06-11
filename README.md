@@ -51,9 +51,12 @@
     ~
 * Further documentation for Tic-Tac-Toe-WindowsXP can be found in my writeup, [*here*](https://github.com/Azaze7/Tic-Tac-Toe-WindowsXP "Tic-Tac-Toe-WindowsXP's Github Repo").
 
-<h1 align="center">
-*Additonal Projects not showcased here can be found in my [*Github Repository*](https://github.com/Azaze7?tab=repositories "Gilbert's Github Projects")!*
-</h1>
+<div align="center">
+
+### *Additional Projects not showcased here can be found in my *Github Repository*!*
+
+</div>
+
 
 ## 💽 Course Work
 
