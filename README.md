@@ -53,7 +53,7 @@
 
 <div align="center">
 
-### *Additional Projects not showcased here can be found in my [*Github Repository*!*](https://github.com/user/repo/blob/branch/other_file.md)
+### *Additional Projects not showcased here can be found via my [*Github Repositories*!*](https://github.com/Azaze7?tab=repositories)
 
 </div>
 
