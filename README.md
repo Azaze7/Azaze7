@@ -20,35 +20,34 @@
 
 * My current interests lie in the concepts of **Data Archival** [💾] and **Ethical Hacking.** [🔐] When I have some time to myself, I'll usually be reading about these topics.
 
-## 📼 Key Personal & Education Projects
+## 📼 Key Personal & Educational Projects
 
-https://github.com/Azaze7/Fallen-Empire
 ✈️MAVERICK. [Created: April 13th, 2024].
 
-    ~ Personal Project.
+    ~ [Personal Project/Hackathon].
     ~ Worked alongside members of the Atlas Development team to develop an indie game in under 48 hours.
     ~ Done during the Borderland Glitch Game Jam; with the prompt of making a game on a movie/tv show released in the '80s.
     ~ MAVERICK is a Top Gun themed game inspired by the gameplay style of 1942/Galaga using retro pixel art graphics.
     ~ Our team utilized the Unity engine for gameplay and GIMP for asset creation.
 * Further documentation for Maverick can be found in my writeup, [*here*](https://github.com/Azaze7/MAVERICK "Maverick's Github Repo").
 
-✈️MAVERICK. [Created: April 13th, 2024].
+👾Fallen-Empire. [Created: March 25th, 2024].
 
-    ~ Personal Project.
-    ~ Worked alongside members of the Atlas Development team to develop an indie game in under 48 hours.
-    ~ Done during the Borderland Glitch Game Jam; with the prompt of making a game on a movie/tv show released in the '80s.
-    ~ MAVERICK is a Top Gun themed game inspired by the gameplay style of 1942/Galaga using retro pixel art graphics.
-    ~ Our team utilized the Unity engine for gameplay and GIMP for asset creation.
-* Further documentation for Maverick can be found in my writeup, [*here*](https://github.com/Azaze7/MAVERICK "Maverick's Github Repo").
+    ~ [Course Work].
+    ~ Worked as Team Leader to lead research about "Depricated Hacking Tools" for CS 4177, Software Vulnerabilities.
+    ~ Created installation tutorial, video walkthrough, mutliple powerpoints & a class excercise that students can perform.
+    ~ Powershell-Empire was an open-source post-exploitation agent to "assess resilience of systems against cyber threats."
+    ~ Our team utilized the Kali-Linux with Powershell-Empire & A virtual Machine running Windows 7 for the excercise.
+* Further documentation for Fallen-Empire can be found in my writeup, [*here*](https://github.com/Azaze7/Fallen-Empire "Fallen-Empire's Github Repo").
 
 📝Tic-Tac-Toe-WindowsXP. [Created: December 6th, 2023].
 
-    ~ Personal Project.
+    ~ [Personal Project].
     ~ 
     ~
     ~
     ~
-* Further documentation for Tic-Tac-Toe-WindowsXP can be found in my writeup, [*here*](https://github.com/Azaze7/Tic-Tac-Toe-WindowsXP "Tic_Tac-Toe-WindowsXP's Github Repo").
+* Further documentation for Tic-Tac-Toe-WindowsXP can be found in my writeup, [*here*](https://github.com/Azaze7/Tic-Tac-Toe-WindowsXP "Tic-Tac-Toe-WindowsXP's Github Repo").
 
 ## 💽 Course Work
 
