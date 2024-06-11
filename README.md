@@ -28,7 +28,7 @@
     ~ Done during the Borderland Glitch Game Jam; with the prompt of making a game on a movie/tv show released in the '80s.
     ~ MAVERICK is a Top Gun themed game inspired by the gameplay style of 1942/Galaga using retro pixel art graphics.
     ~ Our team utilized the Unity engine for gameplay and GIMP for asset creation.
-    Further documentation for the game can be found in my writeup, *here*.
+    Further documentation for the game can be found in my writeup, [*here*](https://github.com/unit098 "Maverick's Github Repo").
 
 ## 💽 Course Work
 
