@@ -28,7 +28,7 @@
     ~ Worked alongside members of the Atlas Development team to develop an indie game in under 48 hours.
     ~ Done during the Borderland Glitch Game Jam; with the prompt of making a game on a movie/tv show released in the '80s.
     ~ MAVERICK is a Top Gun themed game inspired by the gameplay style of 1942/Galaga using retro pixel art graphics.
-    ~ Our team utilized the Unity engine for gameplay and GIMP for asset creation.
+    ~ Our team utilized the Unity engine for gameplay and GIMP for asset creation. *Won Most Technical Award*
 * Further documentation for Maverick can be found in my writeup, [*here*](https://github.com/Azaze7/MAVERICK "Maverick's Github Repo").
 
 
