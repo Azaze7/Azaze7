@@ -182,7 +182,7 @@ These are my ***ten*** most recently completed courses, all of which are relevan
 ***Database Management Systems*** 
 | | | |
 | -------- | -------- | -------- |
-| <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> | <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" /> | <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> |
 
 ***Operating Systems***
 | *Misc.* | *Windows* | *Linux* |
