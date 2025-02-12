@@ -8,7 +8,7 @@
 
 💻 I'm an Aspiring ***Cyber Security Analyst / Software Developer.***
 * I'm Currently Enrolled at **The University of Texas at El Paso** in Computer Science as a Senior.
-* **GPA: [3.22]**
+* **GPA: [3.23]**
 
 🌎 I am committed to using technology as a tool for change, fostering innovation that will **lead to a better world.**
 
@@ -60,12 +60,12 @@
 
 ## 💽 Course Work
 
-I am currently a Senior, with only **five** more courses to complete before my graduation. 
+I am currently a Senior, with only **two** more courses to complete before my graduation. 
 
 * [*Expected Graduation Date: Spring 2025*] 🎓
 * [*Degree Pending: Bachelor's of Science in Computer Science with a Concentration in Secure Cyber Systems*] 🔏
 
-These are my ***ten*** most recently completed courses, all of which are relevant to my degree plan:
+These are my ***eight*** most recently completed courses, all of which are relevant to my degree plan:
 
 🧑🏽‍💻Software Engineering Requirements 1. [CS 4310].
 
@@ -120,19 +120,6 @@ These are my ***ten*** most recently completed courses, all of which are relevan
     ~ Learned about Process/thread management, processor scheduling, concurrency, & interprocess communication. 
     ~ Covered memory management, input/output management, file systems, socket programming, and networking basics.
     ~ Created several projects that showed concurrency without deadlock or race conditions.
-    Grade: [A].
-
-🧮Automata/Computability/Formal-Languages. [CS 3350].
-
-    ~ Theoretical computing models and the formal languages they characterize: finite state machines, regular expressions.
-    ~ Covered pushdown automata, context-free grammars, Turing machines and computability.
-    ~ Discussed capabilities/limitations of each model, and applications including lexical analysis and parsing.
-    Grade: [B].
-    
-🧠Algorithmic Thinking in Problem Solving. [CS 2210].
-
-    ~ Practice solving problems employers use during real world interviews.
-    ~ Developed analytical, coding, and communication skills.
     Grade: [A].
 
 ## 📊 GitHub Stats
