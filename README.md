@@ -3,12 +3,12 @@
 <img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_thumbsup.gif" height="40px"> Howdy! I'm Azaze7, Welcome To My Profile!
 ===============
 
-📍 My Name is Gilbert Guzman, and I'm 23 Years Old.
+📍 My Name is Gilbert Guzman, & I'm 24 Years Old.
 * I was Born and Raised in **El Paso, Texas, USA.**
 
 💻 I'm an Aspiring ***Cyber Security Analyst / Software Developer.***
-* I'm Currently Enrolled at **The University of Texas at El Paso** in Computer Science as a Senior.
-* **GPA: [3.23]**
+* I Graduated from **The University of Texas at El Paso** in Computer Science, with a Specialization in Secure Cyber Systems.
+* **GPA: [3.25]**
 
 🌎 I am committed to using technology as a tool for change, fostering innovation that will **lead to a better world.**
 
@@ -60,12 +60,7 @@
 
 ## 💽 Course Work
 
-I am currently a Senior, with only **two** more courses to complete before my graduation. 
-
-* [*Expected Graduation Date: Spring 2025*] 🎓
-* [*Degree Pending: Bachelor's of Science in Computer Science with a Concentration in Secure Cyber Systems*] 🔏
-
-These are my ***eight*** most recently completed courses, all of which are relevant to my degree plan:
+Below are my ***eight*** most recently completed courses, all of which are relevant to my degree plan:
 
 🧑🏽‍💻Software Engineering Requirements 1. [CS 4310].
 
