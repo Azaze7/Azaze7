@@ -51,7 +51,7 @@
 
 <div align="center">
 
-### *Additional Projects not showcased here can be found via my [*Github Repositories*!*](https://github.com/Azaze7?tab=repositories)
+### *Additional Projects not showcased here can be found via my [*Github Repositories*!*](https://github.com/Azaze7?tab=repositories&q=&type=&language=&sort=name)
 
 </div>
 
