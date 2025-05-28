@@ -12,14 +12,6 @@
 
 🌎 I am committed to using technology as a tool for change, fostering innovation that will **lead to a better world.**
 
-## ⌨️ My Computer Science Story
-
-* I was introduced to computing at a young age from my grandmother, who helped me navigate the digital landscape via AOL dial-up [📎] since I was **three years old.**
-
-* I prefer to collaborate on projects with others on whatever I can help with, but when I code on my own, my passion lies in *front-end development* and the *user experience.* I am deeply invested in creating interfaces that are not only functional, but also are **intuitive and user-friendly.** [🎮] 
-
-* My current interests lie in the concepts of **Data Archival** [💾] and **Ethical Hacking.** [🔐] When I have some time to myself, I'll usually be reading about these topics.
-
 ## 📼 Key Personal & Educational Projects
 
 📝FLL-UTEP-Scoreboard. [Created: January 11th, 2025].
@@ -183,3 +175,11 @@ Below are my ***eight*** most recently completed courses, all of which are relev
 | <img src ="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" /> |
 | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> | <img src="https://raw.githubusercontent.com/Azaze7/Azaze7/main/Guzman_Additional_Banner4.png" width="200" height="30">|
 | | <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" /> |
+
+## ⌨️ My Computer Science Story
+
+* I was introduced to computing at a young age from my grandmother, who helped me navigate the digital landscape via AOL dial-up [📎] since I was **three years old.**
+
+* I prefer to collaborate on projects with others on whatever I can help with, but when I code on my own, my passion lies in *front-end development* and the *user experience.* I am deeply invested in creating interfaces that are not only functional, but also are **intuitive and user-friendly.** [🎮] 
+
+* My current interests lie in the concepts of **Data Archival** [💾] and **Ethical Hacking.** [🔐] When I have some time to myself, I'll usually be reading about these topics.
