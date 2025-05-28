@@ -42,14 +42,13 @@
 * Further documentation for Fallen-Empire can be found in my writeup, [*here*](https://github.com/Azaze7/Fallen-Empire "Fallen-Empire's Github Repo").
 
 
-📝Tic-Tac-Toe-WindowsXP. [Created: December 6th, 2023].
+📝FLL-UTEP-Scoreboard. [Created: January 11th, 2025].
 
-    ~ [Personal Project].
-    ~ 
-    ~
-    ~
-    ~
-* Further documentation for Tic-Tac-Toe-WindowsXP can be found in my writeup, [*here*](https://github.com/Azaze7/Tic-Tac-Toe-WindowsXP "Tic-Tac-Toe-WindowsXP's Github Repo").
+    ~ [Real World Software].
+    ~ Made during my job as Engineering Ambassador of Computer Science, in which I educated and recruited 4,500+ students during various K-12 outreach initiatives such as the First Lego League [FLL], First Tech Challenge [FTC], and traveling to in-person tabling events designed to inspire students to pursue careers in engineering.
+    ~ This custom scoring and leaderboard software software was personally composed and deployed by myself and used by judging officials during the official El Paso FIRST® LEGO® League Explore Festival held at UTEP in January 2025. 
+    ~ Granted logistical support for over 300 students in over 20+ robotics teams.
+* Further documentation for FLL-UTEP-Scoreboard can be found in my writeup, [*here*](https://github.com/Azaze7/Work-Ambassador-FLL-UTEP-Scoreboard "FLL-UTEP-Scoreboards's Github Repo").
 
 <div align="center">
 
