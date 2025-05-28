@@ -55,6 +55,19 @@
 
 </div>
 
+## 📊 GitHub Stats
+⚠️ Though not a fully accurate reflection of what I ***can*** do, these graphs serve as a visual representation of what I have stored here on Github.
+
+🗄️ I tend to code my projects locally, exporting the finished ones to my repos for archive purposes. I'm working towards fixing this bad habit so that my code lives and breathes on the net. :3
+
+<p align="center">
+    <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Azaze7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Azaze7&show_icons=true&theme=dark#gh-dark-mode-only"></a>
+    <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azaze7&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"></a>
+</p>
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Azaze7/Azaze7/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ## 💽 Course Work
 
@@ -114,20 +127,6 @@ Below are my ***eight*** most recently completed courses, all of which are relev
     ~ Covered memory management, input/output management, file systems, socket programming, and networking basics.
     ~ Created several projects that showed concurrency without deadlock or race conditions.
     Grade: [A].
-
-## 📊 GitHub Stats
-⚠️ Though not a fully accurate reflection of what I ***can*** do, these graphs serve as a visual representation of what I have stored here on Github.
-
-🗄️ I tend to code my projects locally, exporting the finished ones to my repos for archive purposes. I'm working towards fixing this bad habit so that my code lives and breathes on the net. :3
-
-<p align="center">
-    <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Azaze7's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Azaze7&show_icons=true&theme=dark#gh-dark-mode-only"></a>
-    <a href="https://github.com/Azaze7/Azaze7#gh-dark-mode-only"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azaze7&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"></a>
-</p>
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Azaze7/Azaze7/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 ## 🧰 My CS Toolbox
 🖲️ I have learned to use many tools while on my CS Journey. Below are some of the languages, IDEs, and Operating Systems that I am familiar with.
