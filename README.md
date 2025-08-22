@@ -8,7 +8,7 @@
 
 💻 I'm an Aspiring ***Cyber Security Analyst / Software Developer.***
 * I Graduated from **The University of Texas at El Paso** in Computer Science, with a Specialization in Secure Cyber Systems.
-* **GPA: [3.25]**
+* **GPA: [3.39]**
 
 🌎 I am committed to using technology as a tool for change, fostering innovation that will **lead to a better world.**
 
