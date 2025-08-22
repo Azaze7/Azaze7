@@ -17,9 +17,10 @@
 📝FLL-UTEP-Scoreboard. [Created: January 11th, 2025].
 
     ~ [Real World Software].
-    ~ Made during my job as Engineering Ambassador of Computer Science, in which I educated and recruited 4,500+ students during various K-12 outreach initiatives.
-    ~ This included the First Lego League [FLL], First Tech Challenge [FTC], and traveling to in-person tabling events designed to inspire students to pursue careers in engineering.
-    ~ This custom scoring and leaderboard software software was personally composed and deployed by myself and used by judging officials during the official El Paso FIRST® LEGO® League Explore Festival held at UTEP in January 2025. 
+    ~ Made in Engineering Ambassador of Computer Science role, educated 4,500+ students during K-12 outreach initiatives.
+    ~ This included the First Lego League [FLL], First Tech Challenge [FTC], and in-person tabling events for the University.
+    ~ This custom scoring/leaderboard software was personally composed and deployed by myself, then used by judging officials.
+    ~ Event of Note: Official El Paso FIRST® LEGO® League Explore Festival held at UTEP in January 2025. 
     ~ Granted logistical support for over 300 students in over 20+ robotics teams.
 * Further documentation for FLL-UTEP-Scoreboard can be found in my writeup, [*here*](https://github.com/Azaze7/Work-Ambassador-FLL-UTEP-Scoreboard "FLL-UTEP-Scoreboards's Github Repo").
 
