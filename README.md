@@ -64,13 +64,29 @@
 
 ## 💽 Course Work
 
-Below are my ***eight*** most recently completed courses, all of which are relevant to my degree plan:
+Below are my ***ten*** most recently completed courses, all of which are relevant to my degree plan:
 
 🧑🏽‍💻Software Engineering Requirements 1. [CS 4310].
 
     ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
     ~ First semester of a two-semester CAPSTONE project in which students worked with a customer.
     ~ Captured and specified requirements for a real-world application, to be coded in Fall 2024.
+    Role: Team Leader.
+    Grade: [A].
+    
+🧑🏽‍💻Software Reverse Engineering. [CS 4310].
+
+    ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
+    ~ First semester of a two-semester CAPSTONE project in which students worked with a customer.
+    ~ Captured and specified requirements for a real-world application, to be coded in Fall 2024.
+    Role: Team Leader.
+    Grade: [A].
+    
+🧑🏽‍💻Software Engineering Requirements 1/2. [CS 4310/CS 4311].
+
+    ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
+    ~ Two-semester CAPSTONE project in which students worked with DEVCOM, a civillian contractor for the Department of Defense.
+    ~ Captured and clarified details for a "Software Requirements Specification" [SRS] documnent for INFILTR8, a real-world application with an emphasis on Machine Learning.
     Role: Team Leader.
     Grade: [A].
     
