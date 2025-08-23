@@ -66,28 +66,28 @@
 
 Below are my ***ten*** most recently completed courses, all of which are relevant to my degree plan:
 
-🧑🏽‍💻Software Engineering Requirements 1. [CS 4310].
-
-    ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
-    ~ First semester of a two-semester CAPSTONE project in which students worked with a customer.
-    ~ Captured and specified requirements for a real-world application, to be coded in Fall 2024.
-    Role: Team Leader.
-    Grade: [A].
-    
-🧑🏽‍💻Software Reverse Engineering. [CS 4310].
-
-    ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
-    ~ First semester of a two-semester CAPSTONE project in which students worked with a customer.
-    ~ Captured and specified requirements for a real-world application, to be coded in Fall 2024.
-    Role: Team Leader.
-    Grade: [A].
-    
 🧑🏽‍💻Software Engineering Requirements 1/2. [CS 4310/CS 4311].
 
     ~ Methodologies, approaches, and techniques associated with software requirements analysis and definition.
     ~ Two-semester CAPSTONE project in which students worked with DEVCOM, a civillian contractor for the Department of Defense.
     ~ Captured and clarified details for a "Software Requirements Specification" [SRS] documnent for INFILTR8, a real-world application with an emphasis on Machine Learning.
+    ~ Due to exemplary performance, with a final project deployment ahead of schedule, granted privilege of exempting the final exam. 
     Role: Team Leader.
+    Grade: [A/B].
+
+⏸️Parallel Computing. [CS 4175].
+
+    ~ Fundamentals of parallel computing.
+    ~ Included principles of parallel decomposition, processes communication and coordination, architecture, parallel algorithms, & analysis.
+    ~ Programmed real world programs using the 'bridges-2' system, based out of the Pittsburgh Supercomputing Center [PSC].
+    Grade: [A].
+    
+🔁Software Reverse Engineering. [CS 4379].
+
+    ~ Integrated security technologies into software systems, enhancing protection across new and legacy platforms.
+    ~ Applied reverse engineering techniques to analyze executable machine code and uncover potential vulnerabilities.
+    ~ Assessed and mitigated cybersecurity threats using proactive defense strategies and attack prevention methods.
+    ~ Examined ethical responsibilities in software development, acquisition, and operation within secure environments.
     Grade: [A].
     
 🖥️Computer Networks. [CS 4316].
