@@ -137,7 +137,7 @@ Below are my ***ten*** most recently completed courses, all of which are relevan
     ~ Created several projects that showed concurrency without deadlock or race conditions.
     Grade: [A].
 
-## 🧰 My CS Toolbox
+## 🧰 My Techstack 
 🖲️ I have learned to use many tools while on my CS Journey. Below are some of the languages, IDEs, and Operating Systems that I am familiar with.
 
 🤓 I'm always excited to learn new things, so if you have any advice or praises for anything not listed here, please let me know so I can tinker with it. :)
